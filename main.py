@@ -80,7 +80,7 @@ def fill_word_template_from_excel(excel_file_path, template_doc_path, output_dir
 def run_gui():
     root = tk.Tk()
     root.title("Word Document Generator")
-    root.geometry("400x300")
+    root.geometry("600x400")
 
     excel_path = tk.StringVar()
     word_template_path = tk.StringVar()
