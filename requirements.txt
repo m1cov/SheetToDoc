@@ -1,6 +1,5 @@
 openpyxl
-docx import Document
-os
-docx.shared import Pt, RGBColor
-docx.oxml.ns import qn
+python-docx
+os 
 datetime
+tkinter
